@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moslinde
 - 👀 I’m interested in python ecosystems
 - 🌱 I’m currently learning python, ML&DL&AI
-- 💞️ I’m looking to collaborate on oil and gas applications
+- 💞️ I’m looking to collaborate on projects within G&G, oil and gas exploration
 - 📫 How to reach me> moslinde@hotmail.com
 
 <!---
