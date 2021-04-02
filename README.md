@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moslinde
+- 👋 Hi, I’m Morten
 - 👀 I’m interested in python ecosystems
 - 🌱 I’m currently learning python, ML&DL&AI
 - 💞️ I’m looking to collaborate on projects within G&G, oil and gas exploration
