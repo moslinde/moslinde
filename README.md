@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python, ML&DL&AI
 - 💞️ I’m looking to collaborate on projects within G&G, oil and gas exploration
 - 📫 How to reach me> moslinde@hotmail.com
+- WEBSITE: www.fjordgeo.no
 
 <!---
 moslinde/moslinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
